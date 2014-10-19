@@ -30,7 +30,7 @@ div {
                     
           <!-- <p>Masters Student, Cornell University <br> Ithaca, NY</p> -->
        <p class="view"><a href="https://github.com/imbenzene" target="_blank">GitHub Profile</a></p> 
-       <p class="view"><a href="./dat/Resume_Oct19.pdf" target="_blank">Curriculum Vitaee</a></p> 
+       <p class="view"><a href="/dat/Resume_Oct19.pdf" target="_blank">Curriculum Vitaee</a></p> 
 <!-- <p class="lead"></p> -->
 <!--
 <ul class="list-inline ">
