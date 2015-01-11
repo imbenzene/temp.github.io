@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say voice="alice"> Testing the application.
-</Say>
-<Pause length="1"/>
-<Say voice="alice"> Let us know if we can help you in any way during your development. </Say>
+<Play loop="10">https://api.twilio.com/cowbell.mp3</Play>
 </Response>
